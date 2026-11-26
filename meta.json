@@ -1,0 +1,23 @@
+{
+  "repo": "apple-one-premier-family-bundle",
+  "product": "Apple One Premier Family Bundle",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "apple-one-premier-family",
+    "apple-one",
+    "apple-one-family",
+    "how-to-install-apple-one",
+    "how-to-setup-apple-one",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "apple-premier"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Apple One Premier Family Bundle"
+}
